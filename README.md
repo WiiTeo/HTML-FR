@@ -1,2 +1,2 @@
 # HTML-FR
-French Traduction of HTML
+HTML-FR is just a French traduction for HTML
